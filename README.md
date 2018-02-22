@@ -8,3 +8,8 @@ Multi-algo CPU miner.
   -u <user>.<worker> -p <pwd>
 
 ```
+
+Full list of algorithms in:
+
+https://github.com/JayDDee/cpuminer-opt
+
