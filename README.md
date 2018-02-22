@@ -11,5 +11,5 @@ Multi-algo CPU miner.
 
 Full list of algorithms in:
 
-https://github.com/JayDDee/cpuminer-opt
+https://github.com/sdesalas/cpuminer-opt
 

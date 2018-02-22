@@ -13,7 +13,7 @@ RUN apt-get update && apt-get -qy install \
  libjansson-dev libgmp-dev g++ --no-install-recommends
 
 
-RUN git clone --recursive https://github.com/JayDDee/cpuminer-opt cpuminer-multi
+RUN git clone --recursive https://github.com/sdesalas/cpuminer-opt cpuminer-multi
 WORKDIR /root/cpuminer-multi
 
 RUN ./autogen.sh
